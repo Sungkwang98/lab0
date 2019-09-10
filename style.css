@@ -1,0 +1,35 @@
+/* CSS for homepage */
+
+.left
+{
+    text-align: left;
+}
+
+.red
+{
+    color: red;
+}
+
+body
+{
+    background-color: #F2F3F4;
+}
+
+header
+{
+    color: purple;
+    text-align: center;
+}
+
+main
+{
+    text-align: center;
+    font-size: large;
+    padding: 50px 200px;
+}
+
+footer
+{
+    font-size: medium;
+    margin-left: 20px;
+}
