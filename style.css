@@ -1,15 +1,5 @@
 /* CSS for homepage */
 
-.left
-{
-    text-align: left;
-}
-
-.red
-{
-    color: red;
-}
-
 body
 {
     background-color: #F2F3F4;
@@ -28,8 +18,16 @@ main
     padding: 50px 200px;
 }
 
+#locations
+{
+    text-align: left;
+    font-size: large;
+    padding: 0px 200px;
+}
+
 footer
 {
+    text-align: center;
     font-size: medium;
     margin-left: 20px;
 }
