@@ -19,7 +19,7 @@ I'll go through what's contained in each file below:
 
 5. README.md: This file is the file you are reading. It describes the project and all the various files.
 
-6. style.css: This is my stylesheet. It .table, #locations, body, header, main, and footer (total: 6 elements) using the following CSS properties: background-color, color, text-align, font-size, padding, and margin-left (total: 6 CSS properties).
+6. style.css: This is my stylesheet. It has the following elements .table, #locations, body, header, main, and footer (total: 6 elements) using the following CSS properties: background-color, color, text-align, font-size, padding, and margin-left (total: 6 CSS properties).
 
 Thanks for your time and help, and I look forward to your feedback.
 
